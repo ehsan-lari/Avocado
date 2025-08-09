@@ -1,2 +1,2 @@
 # Avocado
-The way of avocado
+The way of the avocado
